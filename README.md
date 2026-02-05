@@ -56,6 +56,6 @@ My GitHub captures **how I think, not just what I code**.
 
 ## Let’s Connect
 
-- LinkedIn: linkedin.com/in/vignesh-murugesan376
+- LinkedIn: linkedin.com/in/vignesh-murugesan376/
 - Email: vigneshm90160@gmail.com , vigneshmurugesan8588@gmail.com
 - Portfolio : vignesh-murugesan.vercel.app/
