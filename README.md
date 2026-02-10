@@ -1,115 +1,70 @@
-# 👋 Welcome to My GitHub Profile
+# Vignesh Murugesan
 
-> Building innovative solutions | Open Source Enthusiast | Full-Stack Developer
+Building **production-grade AI and agentic systems** designed for real-world use — not demos.
 
-[![GitHub followers](https://img.shields.io/github/followers/VIGNESH-MT?style=social)](https://github.com/VIGNESH-MT)
-[![GitHub User's stars](https://img.shields.io/github/stars/VIGNESH-MT?style=social)](https://github.com/VIGNESH-MT)
-
----
-
-## 🚀 About Me
-
-I'm a passionate developer dedicated to creating impactful software solutions and contributing to the open-source community. With a focus on clean code, scalability, and innovation, I've built projects that solve real-world problems and help others grow.
-
-**Key Highlights:**
-- 🎯 **Top Tier Developer** - Ranked in the top 0.1% on GitHub
-- 🔧 **Full-Stack Development** - Building end-to-end solutions
-- 🌟 **Open Source Contributor** - Active in multiple high-impact projects
-- 💡 **Continuous Learner** - Always exploring emerging technologies
+I focus on designing and deploying systems that move from **idea → architecture → production** with reliability, clarity, and business impact.
 
 ---
 
-## 💼 Professional Experience
+## What I Work On
 
-### Current Focus
-- Architecting scalable applications
-- Leading technical initiatives
-- Mentoring junior developers
-- Contributing to impactful open-source projects
+- **Agentic AI systems** (LLMs, orchestration, decision workflows)
+- **End-to-end ML pipelines** (training → deployment → monitoring)
+- **Internal AI tools** that teams actually use
+- Turning fragile POCs into **robust production systems**
 
----
-
-## 🛠️ Tech Stack
-
-**Languages:** JavaScript, TypeScript, Python, Java, Go
-
-**Frontend:** React, Vue.js, Next.js, Tailwind CSS
-
-**Backend:** Node.js, Express, Django, FastAPI
-
-**Databases:** PostgreSQL, MongoDB, Redis
-
-**Tools & Platforms:** Docker, Kubernetes, AWS, CI/CD, Git
+I care deeply about system design, failure modes, and long-term maintainability.
 
 ---
 
-## 🌟 Featured Projects
+## Selected Work
 
-### 📌 [Project Name](link)
-Brief description of what makes this project special. Impact and key features.
+### ▶ Agentic Hiring System
+A production-oriented, multi-agent AI system that automates resume screening and candidate evaluation.
 
-### 📌 [Project Name](link)
-Brief description of what makes this project special. Impact and key features.
+- Modular agent architecture
+- Business-first design (not research-only)
+- Built with deployment and scale in mind
 
-### 📌 [Project Name](link)
-Brief description of what makes this project special. Impact and key features.
-
----
-
-## 📊 GitHub Statistics
-
-![VIGNESH-MT's GitHub stats](https://github-readme-stats.vercel.app/api?username=VIGNESH-MT&show_icons=true&theme=dark&count_private=true)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=VIGNESH-MT&layout=compact&theme=dark)
+→ See repository for architecture and implementation details.
 
 ---
 
-## 🎓 Expertise & Skills
+## Engineering Principles
 
-- **Software Architecture** - System design & scalability
-- **Problem Solving** - Complex technical challenges
-- **Leadership** - Team collaboration & mentorship
-- **DevOps** - CI/CD pipelines & infrastructure
-- **Full-Stack Development** - Frontend to backend solutions
-
----
-
-## 🤝 Connect With Me
-
-- 💼 [LinkedIn](https://linkedin.com/in/yourprofile)
-- 🐦 [Twitter](https://twitter.com/yourhandle)
-- 📧 [Email](mailto:your.email@example.com)
-- 🌐 [Personal Website](https://yourwebsite.com)
+- Clear separation of concerns
+- Config-driven systems over hardcoded logic
+- Simple architectures that scale
+- Reliability > cleverness
+- Production reality over theoretical elegance
 
 ---
 
-## 📈 My Goals
+## Tech I Use (When It Makes Sense)
 
-- [ ] Contribute to more impactful open-source projects
-- [ ] Build tools that help millions of developers
-- [ ] Share knowledge through technical writing
-- [ ] Create educational content for the community
+**Languages:** Python, TypeScript  
+**AI / ML:** LLMs, RAG, Agentic workflows  
+**Backend:** FastAPI, Node.js  
+**Infra:** Docker, CI/CD  
+**Data:** PostgreSQL, Vector Databases
 
----
-
-## 🎖️ Achievements
-
-⭐ **Top Contributor** - [Project/Organization]  
-🏆 **Recognition** - [Award/Recognition]  
-📚 **Published** - Technical articles & guides  
+(Technology is a tool — architecture comes first.)
 
 ---
 
-## 💬 Let's Collaborate!
+## Why This Profile Exists
 
-I'm always interested in:
-- ✅ Exciting open-source opportunities
-- ✅ Challenging technical problems
-- ✅ Knowledge sharing and mentorship
-- ✅ Building something amazing together
+This GitHub documents how I think about **building AI systems that survive real usage**:
+- unclear requirements
+- noisy data
+- edge cases
+- operational constraints
 
-Feel free to reach out if you'd like to discuss ideas or collaborate on projects!
+If you're building or scaling an AI system and care about doing it properly, we’ll likely speak the same language.
 
 ---
 
-**Last Updated:** February 2026 | *Let's build something great together!* 🚀
+## Connect
+
+- LinkedIn: https://www.linkedin.com/in/vignesh-murugesan376/
+- GitHub: https://github.com/VIGNESH-MT
