@@ -1,4 +1,4 @@
-# Vignesh Murugesan
+# Vignesh Murugesan B.Tech
 
 Building **production-grade AI and agentic systems** designed for real-world use — not demos.
 
